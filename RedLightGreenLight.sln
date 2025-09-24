@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLightGreenLight", "RedLightGreenLight.csproj", "{41399B6C-2071-C2DB-DD42-B7F6BEA43ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41399B6C-2071-C2DB-DD42-B7F6BEA43ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41399B6C-2071-C2DB-DD42-B7F6BEA43ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41399B6C-2071-C2DB-DD42-B7F6BEA43ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41399B6C-2071-C2DB-DD42-B7F6BEA43ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C3209F-582D-4D75-8837-B0BCFEC6C7B5}
+	EndGlobalSection
+EndGlobal
